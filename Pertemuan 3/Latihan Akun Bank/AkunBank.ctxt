@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AkunBank
+comment1.params=saldo
+comment1.target=AkunBank(int)
+comment2.params=
+comment2.target=int\ getSaldo()
+comment3.params=saldo
+comment3.target=void\ setSaldo(int)
+comment4.params=jumlahSetoran
+comment4.target=void\ setor(int)
+comment5.params=jumlahPenarikan
+comment5.target=void\ tarik(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
