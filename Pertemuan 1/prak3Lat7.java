@@ -1,0 +1,18 @@
+/**
+* Program berikut untuk mencoba operator instanceO
+*/
+public class prak3Lat7 {
+ 
+ 	public static void main(String args[]) {
+ 		String name = "James";
+ 
+ 		// following will return true since name is type of String
+ 		boolean result = name instanceof String;
+ 		System.out.println( result );
+ 	}
+}
+
+/*
+penjelasan program diatas
+program diatas akan menghasilkan true dikarenakan name nya bertipe string
+*/

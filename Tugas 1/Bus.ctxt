@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Bus
+comment1.params=
+comment1.target=Bus()
+comment2.params=
+comment2.target=java.util.ArrayList\ getPenumpangBiasa()
+comment3.params=
+comment3.target=java.util.ArrayList\ getPenumpangPrioritas()
+comment4.params=
+comment4.target=int\ getJumlahPenumpangBiasa()
+comment5.params=
+comment5.target=int\ getJumlahPenumpangPrioritas()
+comment6.params=penumpang
+comment6.target=boolean\ NaikPenumpang(Penumpang)
+comment7.params=nama
+comment7.target=boolean\ turunkanPenumpang(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
